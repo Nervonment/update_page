@@ -1,15 +1,15 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.8",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-06-05T14:02:56.776Z",
+  "pub_date": "2024-06-05T14:35:08.791Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWGswU20rQ2dIYVVldnZGQjVhSFRQelArR1dsMzNkOUJodkRJU0U3VERQbC9kcTRSU2cyRkFUQW9jWUhmTVp0NVFIdVEvQlFqdEpjbUtZN0hFY2lCOVdDQVl4MmtNdHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3NTk2MDIyCWZpbGU6dGF1cmktZmVhdHVyZS10ZXN0LmFwcC50YXIuZ3oKU3o1UmpvTEkvYUpDbzlmL01CU2NDUFBXZ0V4dkY4YnNKQVAycmU5WGhvR0xLbUU3YjU1YXJLUlk4ZFRJTTk1aGFBcGIybjZ3aUJXTzlKUEorVGx5Qnc9PQo=",
-      "url": "https://github.com/Nervonment/tauri-feature-test/releases/download/app-v0.1.6/tauri-feature-test_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWGswU20rQ2dIYVFIQVcwME56ckl3MjRNSEdpbFBXVW1mbTZhVjVuMHkzTi93b00xVERNSTNOK3dMUEt3UXRZYldFSEhxS2tHSUtrdzVQM0MrN2g4aVltQnZhcUxuendvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3NTk3ODExCWZpbGU6dGF1cmktZmVhdHVyZS10ZXN0LmFwcC50YXIuZ3oKSTBOTDBhQXA5RzRXYUV2U0Jnb3hZY2l2KzQ2TWNiUWpDTkVWUnUrZGlqeG5lL2ZXUTlsalkxMjJvRVY2eGxYZklPM0cwc0lMZlhlRWRkbDl4MDVqQ3c9PQo=",
+      "url": "https://github.com/Nervonment/tauri-feature-test/releases/download/app-v0.1.8/tauri-feature-test_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWGswU20rQ2dIYVNQay9aUzBvUXE2WFJ3UjFhdGEyczI1ZCtydkhFWE41YzZubk1QYnNSNU1FaUFJRXpybmlCczI2L3JUWWJ0d05EamZ3cDdkQjZlZ0hwWCtUakVqV0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3NTk2MTcyCWZpbGU6dGF1cmktZmVhdHVyZS10ZXN0XzAuMS42X3g2NF9lbi1VUy5tc2kuemlwCi95dGJmWmo2QWpreHl6Y3JBeEY5VHFjZkVRWnBLSnNieHlGWGRHMnpyVEpuSkpvTEhkMDBnWXRMWlRPUlE2bllqYnJTMWhGMy95N25uZHdYSW85d0JRPT0K",
-      "url": "https://github.com/Nervonment/tauri-feature-test/releases/download/app-v0.1.6/tauri-feature-test_0.1.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWGswU20rQ2dIYWN0TDdOQmM4UVAydzdINU91YXFEb0haZ0YvRkJ1UEF3dTFnYkFpYTFZdmNTUHhNbUhaOWxaY000bDFOaDlaTEhRR21vVHdHNWhpTUVWN3JYZnVOckFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3NTk4MTA0CWZpbGU6dGF1cmktZmVhdHVyZS10ZXN0XzAuMS44X3g2NF9lbi1VUy5tc2kuemlwCnFmQ1hkNFZEM2MwYXlTRzcvUWlkSVZBU25jODdmVmdaaEQ5Y2ZPRVZBYUJFMDhPb0syb2U0RHFQUmFNamNibDNTUTVhVURtSDJsUU1LdEticys0TkJBPT0K",
+      "url": "https://github.com/Nervonment/tauri-feature-test/releases/download/app-v0.1.8/tauri-feature-test_0.1.8_x64_en-US.msi.zip"
     }
   }
 }
